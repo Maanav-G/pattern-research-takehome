@@ -24,7 +24,11 @@ Create a visualization for displaying the PNL of these trades. We envision a sta
 
 
 ## Overview
+
+To run the application, the user needs to spin up the backend python server, as well as the react frontend. 
+
 - `./server`: Contains the Python backend - Instructions can be found in the sub-directory
 - `./frontend`: Contains the React frontedn - Instructions can be found in the sub-directory
+
 
 
